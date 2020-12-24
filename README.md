@@ -18,15 +18,19 @@
     ```
     git clone https://github.com/JIN-SKILL/Restaurant_List.git
     ```
-2. 安裝所需套件
+2. 進入專案資料夾
+    ```
+    cd Restaurant_List
+    ```
+3. 安裝所需套件
 	```
     npm i
     ```
-3. 啟用 localhost 伺服器
+4. 啟用 localhost 伺服器
 	```
     npm run dev
     ```
-4. 終端機 (Terminal) 顯示以下內容，即可在瀏覽器輸入 [http://localhost:3000](http://localhost:3000) 使用網站
+5. 終端機 (Terminal) 顯示以下內容，即可在瀏覽器輸入 [http://localhost:3000](http://localhost:3000) 使用網站
 	```
     The server is listening on http://localhost:3000
     ```
