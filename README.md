@@ -16,7 +16,7 @@
 ## 安裝
 1. 開啟終端機 (Terminal) 並前往安裝路徑的資料夾內輸入指令
     ```
-    git clone https://github.com/windsailg/ac_restaurant_list.git
+    git clone https://github.com/JIN-SKILL/Restaurant_List.git
     ```
 2. 安裝所需套件
 	```
