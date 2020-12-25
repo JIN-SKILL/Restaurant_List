@@ -32,7 +32,7 @@
 	```
     npm run dev
     ```
-5. 終端機 (Terminal) 顯示以下內容，即可在瀏覽器輸入 <a href="http://localhost:3000" target="_blank">http://localhost:3000</a> 使用網站
+5. 終端機 (Terminal) 顯示以下內容，即可在瀏覽器輸入 [http://localhost:3000](http://localhost:3000) 使用網站
 	```
     The server is listening on http://localhost:3000
     ```
